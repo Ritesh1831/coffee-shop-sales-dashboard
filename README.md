@@ -73,6 +73,6 @@ To analyze and visualize coffee shop sales data using **MySQL** for data prepara
 ## ✅ Conclusion
 This dashboard helps stakeholders of a coffee shop chain gain deep insights into their sales patterns, top products, store performance, and customer buying behavior — ultimately supporting smarter marketing, staffing, and inventory decisions.
 
-![dashboard_image](https://github.com/user-attachments/assets/1a60ac13-212d-4cbb-8501-5310bc0551ef)
+![dashboard_image](https://github.com/user-attachments/assets/fb8ece37-2808-461c-ab6f-ec90607652d7)
 
 
